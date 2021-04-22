@@ -1,0 +1,20 @@
+---
+title: "Lecture26-rhw"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Lecture 26
+
+This is hell.
+
+```{r}
+# sample of size 100
+Y<- rnorm( 100)
+hist( Y)
+```
+
+
